@@ -1,10 +1,12 @@
 # Briefing 4: Allegheny AI Perspectives
 
-Fill this in as a group. Keep it short: this is a three to five minute briefing, not a paper. This round
-is not published on the course website.
+Please fill this in as a group and keep it short, since this is a three to five minute briefing rather than
+a paper. Your completed briefing gets published on the course website, so please leave out the names of the
+people you interviewed and any details that could identify them.
 
-**Hand it in by leaving this file here, named `briefing.md`, in this repository.** Use interview IDs like
-`G3-02`, and no names.
+**Hand it in by leaving this file here, named `briefing.md`, in this repository.** Keep every `##` heading
+and every `- Label:` line as it is and write your answers after them. The website reads this file directly,
+so a heading you delete becomes a section that does not appear.
 
 ---
 
@@ -14,45 +16,47 @@ is not published on the course website.
 
 **Members:**
 
+**Your theme:** <!-- a few words that name what you found -->
+
 ---
 
 ## Your finding in one sentence
 
-> What is the most important thing you learned from comparing campus against this class? One sentence.
+> What is the most important thing you learned by comparing the people you interviewed with this class?
 
 
-
----
-
-## Who you interviewed
-
-- Students: <!-- ID, class year and division for each -->
-- Faculty, staff, or administrator: <!-- ID and role -->
 
 ---
 
 ## What you found
 
-Two patterns. Give counts, like "3 of 4", and the class number from `class-survey.md`.
+Please describe two patterns, with counts like "3 of 6" and the matching class numbers from `class-survey.md`.
 
 **1.**
 - The pattern: <!-- one sentence -->
-- Your data: <!-- the counts, and the question numbers they come from -->
-- The class: <!-- the same question's numbers from class-survey.md -->
-- Interviews behind it: <!-- IDs -->
+- Your data: <!-- the counts from your interviews, and which questions they come from -->
+- The class: <!-- the numbers for the same questions from class-survey.md -->
 
 **2.**
 - The pattern:
 - Your data:
 - The class:
-- Interviews behind it:
+
+---
+
+## Where your interviewees came from
+
+> How many of your six came from each area of study, and what do you notice about that spread? Whose
+> perspective might be missing because of it?
+
+
 
 ---
 
 ## Saying and doing
 
-> Compare Q2 against Q8. Did what people said about their AI use match what they checked on the list? How
-> does that compare with the class?
+> Compare Q2 with Q8. Did what people said about their AI use match what they checked on the list, and how
+> does that compare with this class?
 
 
 
@@ -60,7 +64,7 @@ Two patterns. Give counts, like "3 of 4", and the class number from `class-surve
 
 ## What Allegheny has told people
 
-> From Q12: who has heard what is and is not allowed with AI, and from whom?
+> Looking at Q12, who has heard what is and is not allowed with AI, and who told them?
 
 
 
@@ -68,9 +72,10 @@ Two patterns. Give counts, like "3 of 4", and the class number from `class-surve
 
 ## Your visual
 
-One picture the class can read in ten seconds, made from your data and the class numbers.
+Please share one picture the class can read in ten seconds, made from your data and the class numbers.
 
-Put the image file in this repository as `figure.png` (`.jpg` and `.svg` also work).
+Put the image file in this repository as `figure.png` (`.jpg` and `.svg` also work). It gets published with
+your briefing and projected while you present.
 
 - File: figure.png
 - What it shows: <!-- one sentence, the way you would say it out loud -->
@@ -79,16 +84,16 @@ Put the image file in this repository as `figure.png` (`.jpg` and `.svg` also wo
 
 ## Why it matters
 
-> Explain this to someone who is not in a computer and information science class. What should Allegheny
-> or its students do differently, if your finding holds up?
+> Explain this to someone who is not in a computer and information science class. If your finding holds up,
+> what should Allegheny or its students do about it?
 
 
 
 ---
 
-## What four interviews cannot tell you
+## What six interviews cannot tell you
 
-> Who did you not reach, and which of your claims would need more people before you trusted it?
+> Which of your claims would need more people before you trusted it?
 
 
 
@@ -96,7 +101,7 @@ Put the image file in this repository as `figure.png` (`.jpg` and `.svg` also wo
 
 ## Open question
 
-> One thing your group could not answer, or could not agree on.
+> What is one thing your group could not answer or could not agree on?
 
 
 
@@ -104,12 +109,13 @@ Put the image file in this repository as `figure.png` (`.jpg` and `.svg` also wo
 
 ## Who presents what
 
-Everyone in the group speaks during the briefing. Note who covers which part:
+Everyone in the group speaks during the briefing. Please note who covers which part:
 
-- Your finding and who you interviewed:
+- Your finding:
 - What you found:
+- Where your interviewees came from:
 - Saying and doing:
 - What Allegheny has told people:
 - The visual:
 - Why it matters:
-- What four interviews cannot tell you, and the open question:
+- What six interviews cannot tell you, and the open question:
